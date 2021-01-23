@@ -235,7 +235,6 @@ spyder-kernels @ file:///C:/ci/spyder-kernels_1594751670175/work
 SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445271541/work
 statsmodels==0.11.1
 sympy @ file:///C:/ci/sympy_1594234545115/work
-TA-Lib @ file:///C:/Users/Lenovo/PycharmProjects/Research/TA_Lib-0.4.18-cp38-cp38-win_amd64.whl
 tables==3.6.1
 tblib==1.6.0
 terminado==0.8.3
